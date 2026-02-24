@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>automationtesting</name>
-=======
-	<name>automation-framework</name>
->>>>>>> d2d3524b7403cb5eb35be5f88d9bbe66f2903844
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
-<<<<<<< HEAD
 			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
-=======
->>>>>>> d2d3524b7403cb5eb35be5f88d9bbe66f2903844
-			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
-<<<<<<< HEAD
 		<nature>org.eclipse.jdt.core.javanature</nature>
-=======
->>>>>>> d2d3524b7403cb5eb35be5f88d9bbe66f2903844
-		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 </projectDescription>
